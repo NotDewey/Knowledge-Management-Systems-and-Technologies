@@ -1,0 +1,10 @@
+TEST 3: Free-text query
+INPUT: restore deleted customer files after a failed backup
+
+1. DOC007 cosine=0.321625 File restoration operating procedure
+2. DOC009 cosine=0.218788 Deleted files recovery FAQ
+3. DOC010 cosine=0.190034 Quarterly restoration exercise
+4. DOC006 cosine=0.125877 Backup retention policy
+5. DOC008 cosine=0.096592 Backup job failed because storage was full
+
+INTERPRETATION: The query joins deletion, customer files and a failed backup. Inspect the restore procedure and FAQ before applying a recovery point.

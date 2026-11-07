@@ -1,0 +1,10 @@
+TEST 2: Support/Incidents seed
+INPUT: DOC008
+
+1. DOC007 cosine=0.092987 File restoration operating procedure
+2. DOC009 cosine=0.081275 Deleted files recovery FAQ
+3. DOC006 cosine=0.074667 Backup retention policy
+4. DOC010 cosine=0.061694 Quarterly restoration exercise
+5. DOC029 cosine=0.046466 Monitoring alert caused duplicate tickets
+
+INTERPRETATION: A failed backup should retrieve retention and restoration material. A shared term alone does not guarantee an actionable recovery instruction.

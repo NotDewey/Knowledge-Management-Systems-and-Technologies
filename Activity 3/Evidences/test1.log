@@ -1,0 +1,10 @@
+TEST 1: Policy/Process seed
+INPUT: DOC002
+
+1. DOC004 cosine=0.192949 Remote connection troubleshooting FAQ
+2. DOC003 cosine=0.179860 VPN failure following credential rotation
+3. DOC001 cosine=0.169332 Remote access policy
+4. DOC026 cosine=0.096523 Stale authentication token recovery
+5. DOC005 cosine=0.072522 Secure remote working workshop
+
+INTERPRETATION: The seed concerns VPN recovery. Related access policy, incident and FAQ share the same recovery task. Training and onboarding are broader lexical neighbors and require a relevance check.
