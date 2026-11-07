@@ -63,7 +63,7 @@ git clone https://github.com/NotDewey/Knowledge-Management-Systems-and-Technolog
 Navigate to the activity directory:
 
 ```bash
-cd Knowledge-Management-Systems-and-Technologies/Activity-3-KM
+cd "Knowledge-Management-Systems-and-Technologies/Activity 3"
 ```
 
 Install the required dependencies:
